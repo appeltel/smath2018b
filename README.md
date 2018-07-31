@@ -1,2 +1,3 @@
 # smath2018b
-serious math
+
+Serious Math for Serious People
